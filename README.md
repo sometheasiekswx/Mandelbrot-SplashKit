@@ -12,7 +12,7 @@ This is a C++ program that simulates the Mandelbrot Set Using the SplashKit Libr
 
 ## Features
 
-- Zoom In & Out: 
+- Zoom In & Out: Right click to Zoom In and Left Click to Zoom Out
 
 ## To Compile & Run:
 ### Linux/Mac: 
