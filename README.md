@@ -9,13 +9,13 @@ Made by [Somethea Siek](https://github.com/sometheasiekswx), an Aspiring Develop
 ## Description
 
 This is a C++ program that simulates the Mandelbrot Set using the SplashKit library. 
-To change the colors change the "iteration_color" function in "mandelbrot.cpp". 
-To change the screen size, go to "main" and change "open_window" in "program.cpp". 
-To add or reduce detail, change "MAX_INTERATION" in "mandelbrot.h"
 
 ## Features
 
-- Zoom In & Out: Right click to Zoom In and Left Click to Zoom Out
+- Zoom In & Out: Right click to Zoom In and Left Click to Zoom Out.
+- Change Colors: edit the "iteration_color" function in "mandelbrot.cpp". 
+- Change Screen Size: Go to "main" and change "open_window" in "program.cpp". 
+- Adjust Detail: change "MAX_INTERATION" in "mandelbrot.h".
 
 ## To Compile & Run:
 ### Linux/Mac: 
