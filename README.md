@@ -2,15 +2,15 @@
 
 Made by [Somethea Siek](https://github.com/sometheasiekswx), an Aspiring Developer.
 
-### Screenshot
+## Screenshot
 
 ![Preview of Mandelbrot-SplashKit](https://github.com/sometheasiekswx/Mandelbrot-SplashKit/blob/master/mandelbrot.jpg "Preview of Mandelbrot-SplashKit")
 
-### Description
+## Description
 
 This is a C++ program that simulates the Mandelbrot Set Using the SplashKit Library.
 
-### Features
+## Features
 
 - Zoom In & Out: 
 
